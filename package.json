@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "minimist": "^1.2.6",
+    "prompt": "^1.3.0",
+    "prompt-sync": "^4.2.0",
+    "save": "^2.5.0"
+  },
+  "name": "part1",
+  "version": "1.0.0",
+  "main": "ques1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
